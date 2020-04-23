@@ -1,0 +1,5 @@
+
+Test File in Developer Branch
+
+git checkout temp.txt - To remove the last changes from file
+git commit --amend -m "Modified commited message"
